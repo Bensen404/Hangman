@@ -3,8 +3,7 @@ My first extensive python project.
 
 # Python Project: Word Puzzle with Tkinter
 
-This project is a fun and interactive word puzzle application built using **Tkinter** for the GUI and **WonderWords** for generating random words. It allows users to solve puzzles with dynamically generated words.
-
+This project is my first comprehensive Python application, utilizing **Tkinter** for GUI development and **WonderWords** for generating random words. The program features an interactive word puzzle interface, allowing users to solve dynamic word puzzles generated in real-time.
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
