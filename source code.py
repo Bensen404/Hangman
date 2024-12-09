@@ -4,9 +4,6 @@ from wonderwords import RandomWord
 from tkinter import messagebox  # Import messagebox for showing messages
 import random
 
-# random_word = RandomWord()
-# word_list = [random_word.word().upper()]
-
 photos = []  
 
 def load_images():
@@ -127,7 +124,5 @@ title_label.pack(pady=50)
 new_gbutton = tk.Button(center_frame, text="New Game", font=("Helvetica", 24), command=start_new_game)
 new_gbutton.pack(pady=20)
 
-'''imgLabel = tk.Label(root,bg='#FFFFFF')
-imgLabel.pack(pady=20)'''
 
 root.mainloop()
