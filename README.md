@@ -43,3 +43,4 @@ source code.py
 
 ##Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements or new features.
+Thank you!
